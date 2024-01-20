@@ -1,0 +1,22 @@
+{
+  "done": "Done!",
+  "successfully": "You have successfully added a new location",
+  "titleDelete": "Delete",
+  "titleEdit": "Edit",
+  "bntSubmit": "Save",
+  "bntCancel": "Cancel",
+  "btnAddLocation": "Add Location",
+  "btnLoadMockData": "Load Mock Data",
+  "btnRemoveAll": "Remove All",
+  "titleNewLocation": "New Location",
+  "locationName": "Location Name",
+  "requiredLocationName": "Location's name is required",
+  "patternLocationName": "Accepted only letters and numbers",
+  "placeholderLocationName": "Enter location's name",
+  "latitude": "Latitude",
+  "requiredLatitude": "Latitude is required",
+  "patternLatitude": "Invalid latitude",
+  "longitude": "Longitude",
+  "requiredLongitude": "Longitude is required",
+  "patternLongitude": "Invalid longitude"
+}

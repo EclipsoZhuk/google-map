@@ -1,0 +1,22 @@
+{
+  "done": "Готово!",
+  "successfully": "Ви успішно додали нове місцезнаходження",
+  "titleDelete": "Видалити",
+  "titleEdit": "Редагувати",
+  "bntSubmit": "Зберегти",
+  "bntCancel": "Скасувати",
+  "btnAddLocation": "Додати місцезнаходження",
+  "btnLoadMockData": "Завантажити макет даних",
+  "btnRemoveAll": "Видалити все",
+  "titleNewLocation": "Нова локація",
+  "locationName": "Назва місцезнаходження",
+  "requiredLocationName": "Необхідно вказати назву місцезнаходження",
+  "patternLocationName": "Приймаються лише літери та цифри",
+  "placeholderLocationName": "Введіть назву місцезнаходження",
+  "latitude": "Широта",
+  "requiredLatitude": "Необхідно вказати широту",
+  "patternLatitude": "Недійсна широта",
+  "longitude": "Довгота",
+  "requiredLongitude": "Необхідно вказати довготу",
+  "patternLongitude": "Недійсна довгота"
+}
